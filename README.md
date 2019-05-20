@@ -23,9 +23,9 @@ Upload all files in public_html/ directory to your root web directoy(public_hmtl
 Go to file public_html/supper admin credentials.txt
 
 
-Thank you!
-
 Made with Love
 
-Garshom K Charles
+Author : Garshom K Charles
+
+Thank you!
 
