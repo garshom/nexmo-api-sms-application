@@ -5,8 +5,8 @@ if( $_POST ){
 	$sender_id = trim($_POST['sender_id']);
     $recepient_number = trim($_POST['recepient_number']);
 	$send_message=trim($_POST['send_message']);
-	$api_key='520e5f68';
-	$secret_key='4a9c27bec50c534b';
+	$api_key='xxxxxxxx';
+	$secret_key='xxxxxxxxxxxxxx';
 	
 	if($sender_id=="" || $recepient_number=="" || $send_message==""){
 	?>

@@ -7,7 +7,7 @@ Configure your mysql db connection from public_html/config.php and import the db
 
 ## Nexmo API Configuration
 
-Nexmo provides an API_KEY in the form (521e5gy8) and a SECRET_KEY in the form (4b9j27bd50c534b), configure your Nexmo API key from public_html/process_sms.php file 
+Nexmo provides an API_KEY and a SECRET_KEY, configure your Nexmo API key from public_html/process_sms.php file 
 
 
 $api_key='REPLACE WITH YOUR NEXMO API_KEY';
@@ -23,9 +23,10 @@ Upload all files in public_html/ directory to your root web directoy(public_hmtl
 Go to file public_html/supper admin credentials.txt
 
 
+
 Made with Love
 
-Author : Garshom K Charles
+Author : Kisakye G Charles
 
 Thank you!
 
